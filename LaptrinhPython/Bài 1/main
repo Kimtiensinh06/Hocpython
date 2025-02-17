@@ -1,0 +1,15 @@
+'''
+B1:Thiết lập tùy chọn file Autosave
+B2:Cài extension Great Icon
+B3:
+Ctrl + , mở setting Vs 
+tick chọn Format and save
+bỏ tick -Compact folders
+B3:Cài Extension code runder #thêm tùy chọn chay code góc phải
+'''
+
+print('Hello Word')
+print('My name is Kien')
+print('M😊') # Win+. hiện React.
+''' Thay "python": "set PYTHONIOENCODING=utf-8 && python -u", trong Excutor Map - edit in setings.json
+để fix lỗi không hiện rection)'''
